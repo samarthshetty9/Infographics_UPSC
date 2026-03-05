@@ -1,0 +1,10 @@
+.env
+output/
+books/
+uploads/
+__pycache__/
+*.pyc
+*.json
+*.jpg
+*.png
+node_modules/
